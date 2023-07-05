@@ -12,4 +12,4 @@ Technologies and Tools Used:
 
 Python: NumPy, pandas, scikit-learn, and other relevant libraries for data manipulation, preprocessing, modeling, and evaluation.
 Jupyter Notebook: Creating an interactive environment for data exploration, model development, and result visualization.
-Machine Learning: Utilizing regression algorithms and techniques to build and train the predictive model.
+Machine Learning: Utilizing regression algorithms and techniques to build and train the predictive model
